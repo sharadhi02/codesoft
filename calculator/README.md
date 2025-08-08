@@ -1,7 +1,6 @@
-# Simple To-Do List Application (Command-Line Based)
+# Simple GUI Calculator using Python Tkinter
 
-Welcome to the Simple To-Do List Application repository!  
-This Python project provides a command-line interface (CLI) that allows users to manage and track their daily tasks in an organized way.
+This is a Python project that creates a basic calculator with a graphical user interface (GUI) using the Tkinter library. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division using button clicks.
 
 ---
 
@@ -13,21 +12,26 @@ This Python project provides a command-line interface (CLI) that allows users to
 4. [Features](#features)  
 5. [Contributing](#contributing)  
 6. [License](#license)  
-7. [Acknowledgments](#acknowledgments)
+7. [Acknowledgments](#acknowledgments)  
+8. [Author](#author)
 
 ---
 
 ## Description
 
-This project is a basic **command-line based To-Do List application** built with Python. It enables users to add tasks, view all tasks, delete tasks, and quit the application. It is ideal for practicing user input handling, lists, and control flow in Python.
+This calculator application was developed as **Task 2** for the **CODSOFT Python Internship**. The GUI was built using Tkinter and supports basic operations like `+`, `-`, `x`, and `/`. The interface is intuitive and beginner-friendly.
 
 ---
 
 ## Getting Started
 
-To get started with this application:
+### Prerequisites
 
-1. Clone this repository to your local machine:
+- Python 3.x installed on your system
 
-   ```bash
-   git clone https://github.com/your-username/CODSOFT.git
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/simple_calculator_gui.git
